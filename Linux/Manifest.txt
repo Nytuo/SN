@@ -11,7 +11,7 @@ SNRE_Version.txt,0,7
 v8_context_snapshot.bin,0,633792
 lib\libffmpeg.so,0,1932416
 lib\libnode.so,0,26895464
-lib\libnw.so,https://1drv.ws/u/s!AkkqGntQc7Y5nK0CcCbmj-NPE8IOpw?e=jeZqOA,146008128
+lib\libnw.sohttps://onedrive.live.com/download?cid=39B673507B1A2A49&resid=39B673507B1A2A49%21464514&authkey=APlL_O_VGnrFgG4,146008128
 locales\en-US.pak,0,205196
 locales\en-US.pak.info,0,479931
 swiftshader\libEGL.so,0,264704
